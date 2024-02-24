@@ -27,7 +27,6 @@ def ChatEngine(prompt):
     max_tokens=args.max_new_tokens,
     seed=args.seed,
     messages=[
-        # {"role": "system", "content": instruction},
         {"role": "user", "content": prompt}
     ]
     )
@@ -49,10 +48,6 @@ if args.prompt == 'chat-type1': # zero-shot
 elif args.prompt == 'chat-type2': # zero-shot
     prompt_template = Template("Following is a tweet. $text.\n\nPlease predict the stance in the tweet towards the target $target. Answer in the form of pythonic dictionary. {'Stance': FAVOR/ AGAINST/NONE}.")
 
-data_to_write = [
-    {"key1": "value1", "key2": "value2"},
-    {"key1": "value3", "key2": "value4"}
-]
 
 # write to txt, csv files
 fileEmpty = True
@@ -73,7 +68,6 @@ with open(args.generation_csv_path, 'w') as csv_file, open(args.generation_txt_p
         if args.limit > 0 and index >= args.limit:
             break
         response = ChatEngine(prompt)
-        # response = data_to_write[index]
         responses.append(response)
         gen_text = response.choices[0].message.content
         txt_file.write('Generated text: ' + gen_text + '\n')

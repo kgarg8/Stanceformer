@@ -8,20 +8,6 @@ import numpy as np
 import pdb
 
 
-labels = {
-        'Atheism'   : ['theism', 'atheism', 'athiest', 'thiest'],
-        'Feminist Movement': ['feminist', 'feminism'],
-        'Hillary Clinton': ['hillary', 'clinton'],
-        'Legalization of Abortion': ['abortion', 'abort'],
-        'Joe Biden': ['joe', 'biden', 'joseph'],
-        'Donald Trump': ['donald', 'trump'],
-        'Bernie Sanders': ['bernie', 'sanders'],
-        'face masks': ['face mask', 'mask'],
-        'fauci': ['fauci', 'anthony'],
-        'stay at home orders': ['stay at home', 'stay home', 'home order', 'stayhome', 'stayathome', 'homeorder'],
-        'school closures': ['school', 'closure'],
-        }
-
 def load_data(args, filename):
 
     df = pd.DataFrame()

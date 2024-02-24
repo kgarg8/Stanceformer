@@ -26,8 +26,4 @@ for index, row in df.iterrows():
         stance = parse_stance(gen_text).upper()
     df.at[index, 'Generated Stance'] = stance
 
-new_df = df[df['Generated Stance'] == '']
-print('NO MATCH FOUND count: ', len(new_df))
-
-# new_df.to_csv('new_df_parsed_output_text_chatgpt_3.5_turbo_hf_Covid19_wo_finetune_exp1.csv', index=False)
 df.to_csv('df_parsed_output_text_chatgpt_3.5_turbo_hf_Covid19_wo_finetune_exp1.csv', index=False)

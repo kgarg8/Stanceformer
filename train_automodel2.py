@@ -171,39 +171,6 @@ def tokenize_function(tokenizer, examples):
     print('Extra long samples: ', extra_long_samples)
     return encoded_dict
 
-def update_alpha(args, batch, new_weights):
-    if args.model == 'Bertweet':
-        sep = '</s>'
-        sep_token = 2
-    elif args.model == 'BertLite':
-        sep = '[SEP]'
-        sep_token = 3
-    else:
-        sep = '[SEP]'
-        sep_token = 102
-
-    l, m = len(batch['attention_mask']), len(
-        batch['attention_mask'][0])
-    t = [[[0 for col in range(m)] for col in range(m)]
-            for row in range(l)]  # initialize
-    batch['ta_matrix'] = t
-
-    for i in range(len(t)):
-        # input: sentence sep target sep <pad> <pad> ....
-        # get index of first sep_token; id of sep is sep_token
-        b = batch['input_ids'][i].tolist().index(sep_token)
-
-        try:
-            # get index of second sep_token
-            e = b + 1 + batch['input_ids'][i][b+1:].tolist().index(sep_token)
-            for j in range(b+1, e):
-                for k in range(b+1, e):
-                    t[i][j][k] = new_weights[i].item()
-        except:
-            # extra long sample; just skip it
-            continue
-
-    batch['ta_matrix'] = torch.tensor(batch['ta_matrix']).to(device)
 
 def run_classifier():
     set_seed(123)  # initial seed

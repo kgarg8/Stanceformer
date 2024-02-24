@@ -164,7 +164,6 @@ df['Generated Stance'].fillna('UNKNOWN', inplace=True)
 df['Generated Stance'] = df['Generated Stance'].map({'FAVOR': 2, 'NONE': 1, 'AGAINST': 0, 'UNKNOWN': -1})
 
 unknown = len(df[df['Generated Stance'] == -1])
-pdb.set_trace()
 
 df['GT Stance'] = df['GT Stance'].map({'FAVOR': 2, 'NONE': 1, 'AGAINST': 0}) # UNKNOWN is not in this dictionary
 
