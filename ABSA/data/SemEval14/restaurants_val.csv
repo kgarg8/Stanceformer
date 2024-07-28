@@ -1,0 +1,501 @@
+Text,Aspect,Polarity
+"Not only was the food outstanding , but the little ' perks ' were great .",food,POS
+"Not only was the food outstanding , but the little ' perks ' were great .",perks,POS
+The pizza is the best if you like thin crusted pizza .,pizza,POS
+it 's a perfect place to have a amazing indian food .,indian food,POS
+"Fabulous service , fantastic food , and a chilled out atmosphere and environment .",service,POS
+"Fabulous service , fantastic food , and a chilled out atmosphere and environment .",food,POS
+"Fabulous service , fantastic food , and a chilled out atmosphere and environment .",atmosphere,POS
+"Fabulous service , fantastic food , and a chilled out atmosphere and environment .",environment,POS
+Go here for a romantic dinner but not for an all out wow dining experience .,dinner,POS
+Go here for a romantic dinner but not for an all out wow dining experience .,dining,POS
+"With the great variety on the menu , I eat here often and never get bored .",menu,POS
+Not too crazy about their sake martini .,sake martini,NEG
+All my co-workers were amazed at how small the dish was .,dish,NEG
+"The wait staff is friendly , and the food has gotten better and better !",wait staff,POS
+"The wait staff is friendly , and the food has gotten better and better !",food,POS
+"It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .",vibe,POS
+"It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .",French food,POS
+I also ordered for delivery and the restaurant forgot half the order .,delivery,NEG
+I also ordered for delivery and the restaurant forgot half the order .,order,NEG
+Overall A oh ya even though there is waiting it is deff worth it,waiting,NEG
+Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d ' apologized and regularly kept us apprised of progress .,Service,POS
+Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d ' apologized and regularly kept us apprised of progress .,maitre,POS
+Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d ' apologized and regularly kept us apprised of progress .,reservation,NEG
+"Pizza and garlic knots are great as well , I order from them quite often and the delivery is always super quick !",Pizza,POS
+"Pizza and garlic knots are great as well , I order from them quite often and the delivery is always super quick !",delivery,POS
+"Pizza and garlic knots are great as well , I order from them quite often and the delivery is always super quick !",garlic knots,POS
+"For great chinese food nearby , you have Wu Liang Ye and Grand Sichuan just a block away .",chinese food,POS
+"Service could be improved but overall this is a place that understands the importance of little things ( the heavy , black , antique-seeming teapot , for one ) in the restaurant experience .",Service,NEG
+"Service could be improved but overall this is a place that understands the importance of little things ( the heavy , black , antique-seeming teapot , for one ) in the restaurant experience .",teapot,POS
+"And Kruno , the beverage manager is the best bartender I have yet to come across .",bartender,POS
+"And Kruno , the beverage manager is the best bartender I have yet to come across .",beverage manager,POS
+"I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .",ambiance,POS
+"I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .",service,POS
+"I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .",foods,POS
+"I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .",captain,POS
+"I understand the area and folks you need not come here for the romantic , alluring ambiance or the five star service featuring a sommlier and a complicated maze of captain and back waiters - you come for the authentic foods , the tastes , the experiance .",back waiters,POS
+"Eating in , the atmosphere saves it , but at your desk , it 's a very disappointing experience .",atmosphere,POS
+Succulent steaks cooked precisely to your desired 'doneness ' accompanied by salads and sides that do n't look like leafy road kill .,steaks,POS
+Decent wine at reasonable prices .,wine,POS
+Decent wine at reasonable prices .,prices,POS
+even the wine by the glass was good .,wine by the glass,POS
+This dish is my favorite and I always get it when I go there and never get tired of it .,dish,POS
+"The food was just awful , ATROCIOUS actually .",food,NEG
+Try their plain pizza with fresh garlic or eggplant .,plain pizza,POS
+Try their plain pizza with fresh garlic or eggplant .,garlic,POS
+The service is awful .,service,NEG
+I recently went to this restaurant with some co-workers for lunch and had an amazing time .,lunch,NEU
+Ess-A-Bagel ( either by Sty-town or midtown ) is by far the best bagel in NY .,bagel,POS
+The sake menu should not be overlooked !,sake menu,POS
+"The service , wine selection , ambiance are all outstanding and deserve recognition .",service,POS
+"The service , wine selection , ambiance are all outstanding and deserve recognition .",wine selection,POS
+"The service , wine selection , ambiance are all outstanding and deserve recognition .",ambiance,POS
+"It 's really also the service , is good and the waiters are friendly .",service,POS
+"It 's really also the service , is good and the waiters are friendly .",waiters,POS
+"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",eggs benedict,NEG
+"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",hollondaise sauce,NEG
+"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",brunch,NEU
+"The food was really good , I had the onion soup and it was one of the best ever .",food,POS
+"The food was really good , I had the onion soup and it was one of the best ever .",onion soup,POS
+The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree .,Grilled Chicken special with Edamame Puree,NEU
+"They are tasty , but I suggest only eating one with meat because they tend not to mesh that well with the average American digestive system .",meat,NEU
+Delivery is fast too .,Delivery,POS
+The atmosphere is great if your looking for a laid back scene and an inexpensive way to spend a weekend afternoon .,atmosphere,POS
+"I had the salmon dish and while it was fine , for the price paid , I expected it to have some type of flavor .",flavor,NEG
+"I had the salmon dish and while it was fine , for the price paid , I expected it to have some type of flavor .",price,NEU
+"Especially liked chicken tikka and the naan , and the dals .",chicken tikka,POS
+"Especially liked chicken tikka and the naan , and the dals .",naan,POS
+"Especially liked chicken tikka and the naan , and the dals .",dals,POS
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .,lawns,POS
+"The overall price tag was very very expensive , something I did expect .",price tag,NEG
+Good food .,food,POS
+Its a great place for a casual date or to entertain clients for lunch .,lunch,NEU
+Plain and simple it 's bad thai food .,thai food,NEG
+"While certain staples are excellent ( the burger , some of the pastas ) , the food is not really the point .",burger,POS
+"While certain staples are excellent ( the burger , some of the pastas ) , the food is not really the point .",pastas,POS
+"While certain staples are excellent ( the burger , some of the pastas ) , the food is not really the point .",food,NEU
+"While certain staples are excellent ( the burger , some of the pastas ) , the food is not really the point .",staples,POS
+"good music , great food , speedy service affordable prices .",music,POS
+"good music , great food , speedy service affordable prices .",food,POS
+"good music , great food , speedy service affordable prices .",service,POS
+"good music , great food , speedy service affordable prices .",prices,POS
+The sides were ok and incredibly salty .,sides,NEG
+The hostess and the waitress were incredibly rude and did everything they could to rush us out .,hostess,NEG
+The hostess and the waitress were incredibly rude and did everything they could to rush us out .,waitress,NEG
+I must say the view of NYC is so beautiful !,view,POS
+"Otherwise , this place has great service and prices and a nice friendly atmosphere .",service,POS
+"Otherwise , this place has great service and prices and a nice friendly atmosphere .",prices,POS
+"Otherwise , this place has great service and prices and a nice friendly atmosphere .",atmosphere,POS
+The desserts are more appealing then stuffy overpriced French restaurants .,desserts,POS
+"I found the food to be outstanding , particulary the salmon dish I had .",food,POS
+"I found the food to be outstanding , particulary the salmon dish I had .",salmon dish,POS
+The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .,atmosphere,NEG
+Pastrami or corned beef are juicy and piled high ( ask for extra rye bread ) .,Pastrami or corned beef,POS
+"( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .",glasses of champagne,NEG
+"( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .",bottle of wine,NEG
+"otherwise , good stuff for late nite eats .",stuff,POS
+"otherwise , good stuff for late nite eats .",eats,POS
+"The dinner was ok , nothing I would have again .",dinner,NEG
+All the food was hot tasty .,food,POS
+Our server was very helpful and friendly .,server,POS
+The staff is no nonsense .,staff,POS
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",menu,POS
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",burger,NEU
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",steak,NEU
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",escargot,NEU
+Prices are higher to dine in and their chicken tikka marsala is quite good .,Prices,NEG
+Prices are higher to dine in and their chicken tikka marsala is quite good .,chicken tikka marsala,POS
+The photos of the restaurant in its web site are way better than the real look .,look,NEG
+The food was lousy - too sweet or too salty and the portions tiny .,food,NEG
+The food was lousy - too sweet or too salty and the portions tiny .,portions,NEG
+But the coconut rice was good .,coconut rice,POS
+All of my co-workers stated that the food was amazing and wondered why they had n't heard about this place .,food,POS
+Friendly staff that actually lets you enjoy your meal and the company you 're with .,staff,POS
+Friendly staff that actually lets you enjoy your meal and the company you 're with .,meal,POS
+The appetizing is excellent - just as good as Zabars Barney Greengrass at a reasonable price ( if bought by the pound ) .,appetizing,POS
+The appetizing is excellent - just as good as Zabars Barney Greengrass at a reasonable price ( if bought by the pound ) .,price,POS
+"First , the waiter who served us neglected to fill us in on the specials , which I would have chosen had I known about them .",waiter,NEG
+"Authentic food and they have REAL service , not just the rush you get sometimes when they try to push you out the door .",food,POS
+"Authentic food and they have REAL service , not just the rush you get sometimes when they try to push you out the door .",service,POS
+I would definitely recommend SEA if you like thai cuisine !,thai cuisine,POS
+Prices are in line .,Prices,NEU
+The food is prepared quickly and efficiently .,food,POS
+"While this is n't classical restaurant fare , the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs .",dishes,POS
+"While this is n't classical restaurant fare , the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs .",cuisine,NEU
+"While this is n't classical restaurant fare , the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs .",Indian,POS
+Great romantic place for a date ( try to get the corner booth table for a little privacy and to sit close ! ) .,corner booth table,POS
+Great romantic place for a date ( try to get the corner booth table for a little privacy and to sit close ! ) .,place,POS
+We were fans of the half-price Saturday night option until some inedible squid during a recent visit .,squid,NEG
+We were fans of the half-price Saturday night option until some inedible squid during a recent visit .,half-price Saturday night option,POS
+Consistently good Japanese Tapas .,Japanese Tapas,POS
+"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",dishes,POS
+"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",lamb sausages,POS
+"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",sardines with biscuits,POS
+"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",large whole shrimp,POS
+"The dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest I 've ever had ) .",pistachio ice cream,POS
+I had to share my table with a loud group of kids and the service was rude an unattentive .,service,NEG
+I had to share my table with a loud group of kids and the service was rude an unattentive .,table,NEG
+"i 've been to sapphire twice and both times the food was fine , if not good .",food,POS
+It is kinda nosiy and the tables are close together but it 's still a beautiful place to enjoy a nice dinner .,tables,NEG
+It is kinda nosiy and the tables are close together but it 's still a beautiful place to enjoy a nice dinner .,dinner,POS
+It is kinda nosiy and the tables are close together but it 's still a beautiful place to enjoy a nice dinner .,place,POS
+"The Pastrami sandwich was like buttah and with pickles and an icy cold beer to wash it down , it was a pleasurable experience .",Pastrami sandwich,POS
+"The Pastrami sandwich was like buttah and with pickles and an icy cold beer to wash it down , it was a pleasurable experience .",beer,POS
+The scallion pancakes and fried dumplings were nothing out of the ordinary .,scallion pancakes,NEU
+The scallion pancakes and fried dumplings were nothing out of the ordinary .,fried dumplings,NEU
+I was pretty much full after our fondue appetizer .,fondue appetizer,NEU
+Service was quick .,Service,POS
+Drawbacks : service is slow and they do n't toast !,service,NEG
+The spicy tuna and salmon are the best we 've ever had .,spicy tuna,POS
+The spicy tuna and salmon are the best we 've ever had .,salmon,POS
+"Even though its good seafood , the prices are too high .",seafood,POS
+"Even though its good seafood , the prices are too high .",prices,NEG
+"Meat dishes now adorn the selections , although there 's still a large number of vegetarian-friendly choices .",vegetarian-friendly choices,POS
+Reasonable prices .,prices,POS
+The dim sum servings here are a bit larger than I 'm used to .,dim sum servings,NEU
+"Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .",meal,POS
+"Looking around , I saw a room full of New Yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .",clubhouse,NEG
+We had a great tiem watching the shows and characters and ar food was just what we were looking for .,shows,POS
+We had a great tiem watching the shows and characters and ar food was just what we were looking for .,food,POS
+We had a great tiem watching the shows and characters and ar food was just what we were looking for .,characters,POS
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !",neighborhood,POS
+"Not sure where the previous reviewer , lonk , dined , but Saul is in a great neighborhood and has great food !",food,POS
+The noodle and rices dishes taste great .,noodle and rices dishes,POS
+The food 's as good as ever .,food,POS
+The rice was poor quality and was cooked so badly it was hard .,rice,NEG
+The rice was poor quality and was cooked so badly it was hard .,quality,NEG
+The rice was poor quality and was cooked so badly it was hard .,cooked,NEG
+"While they keep the capex to a minimum , they do put some cash into the bagels , because they among the best in the city .",bagels,NEU
+Have frequented 'ino for several years and the food remains excellent .,food,POS
+My friend got the mushroom pizza which tasted better .,mushroom pizza,POS
+"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .",porcini mushroom pasta special,NEG
+"The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .",seafood tagliatelle,NEG
+THE FOOD PORTIONS ARE REALLY LARGE .,FOOD PORTIONS,POS
+It looked like shredded cheese partly done - still in strips .,shredded cheese,NEG
+I have never better enjoyed humble root vegetables or a mushroom consomme - and this chef accomplishes without fats .,root vegetables,POS
+I have never better enjoyed humble root vegetables or a mushroom consomme - and this chef accomplishes without fats .,mushroom consomme,POS
+"If you go to Roth 's try to be served by Mike , he is GREAT ! !",served,POS
+The food is amazing ! ! ! !,food,POS
+"Interesting selection , good wines , service fine , fun decor .",wines,POS
+"Interesting selection , good wines , service fine , fun decor .",service,POS
+"Interesting selection , good wines , service fine , fun decor .",decor,POS
+The rice to fish ration was also good -- they did n't try to overpack the rice .,rice to fish ration,POS
+The food is great and they have a good selecion of wines at reasonable prices .,food,POS
+The food is great and they have a good selecion of wines at reasonable prices .,selecion of wines,POS
+The food is great and they have a good selecion of wines at reasonable prices .,prices,POS
+I could n't reccommend their Godmother pizza any higher .,Godmother pizza,POS
+"Always a nice crowd , but never loud .",crowd,POS
+Decor is minimalist and clean - nothing to distract or commend .,Decor,NEU
+The people in the restaurant were pretty obnoxious and loud .,people,NEG
+Price no more than a Jersey deli but way better .,Price,POS
+"THe back garden sitting area is very pleasant , where you can see their personal herb garden .",back garden sitting area,POS
+The drinks are always well made and wine selection is fairly priced .,drinks,POS
+The drinks are always well made and wine selection is fairly priced .,wine selection,NEU
+The drinks are always well made and wine selection is fairly priced .,priced,POS
+Food was average but tasty .,Food,POS
+"Admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .",open kitchen,POS
+I 'm still mad that i had to pay for lousy food .,food,NEG
+"Worse of all , $ 60 was erroneously added to our $ 80 bill .",bill,NEG
+Someone else recommended the dessert - we also left that .,dessert,NEG
+"It was nice and fresh , but I ca n't give it high scores on being authentic thai .",thai,NEG
+"Oh , and the complimentary pudding dessert was just enough - yummy !",pudding dessert,POS
+"It saves walking in and waiting for a table in the often noisy , crowded bar at dinnertime .",bar,NEG
+"It saves walking in and waiting for a table in the often noisy , crowded bar at dinnertime .",waiting,NEG
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,goat cheese,POS
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,panchetta,POS
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,raddichio,NEG
+"Disappointing food , lousy service .",food,NEG
+"Disappointing food , lousy service .",service,NEG
+"Over price , and small portions .",price,NEG
+"Over price , and small portions .",portions,NEG
+"My husband said the portions were very small , but if my main course was good to eat the portion would 've been fine for me .",portions,NEG
+"My husband said the portions were very small , but if my main course was good to eat the portion would 've been fine for me .",main course,NEG
+"Because we did n't have a reservation , we could only sit in the back garden , but it was great , secluded and perfect in nice weather .",back garden,POS
+Stuffing yourself with Japanese food is a rare thing .,Japanese food,NEU
+Our family never expected such incredible entertainment in a restaurant .,entertainment,POS
+The all you can eat deal is truly amazing here .,all you can eat deal,POS
+The dining room is quietly elegant with no music to shout over -- how refreshing !,dining room,POS
+"They have it all -- great price , food , and service .",price,POS
+"They have it all -- great price , food , and service .",food,POS
+"They have it all -- great price , food , and service .",service,POS
+"The food was amazing , the service was so attentive and personable , and how about that ambience !",food,POS
+"The food was amazing , the service was so attentive and personable , and how about that ambience !",service,POS
+"This place has the best interior I have seen anywhere in the northside of W'burg , and will impress whoever you bring there .",interior,POS
+"This place has the best interior I have seen anywhere in the northside of W'burg , and will impress whoever you bring there .",place,POS
+I found the variety of the sashimi plate to be satisfying - fresh and yummy .,sashimi plate,POS
+Dahkin also offers prix fixe lunch and buffet .,prix fixe lunch,POS
+Dahkin also offers prix fixe lunch and buffet .,buffet,POS
+"The service , however , was a bright flower in a garden .",service,POS
+Tried the pad see ew on the recommendation of the last reviewer since it 's one of my favorite dishes .,pad see ew,NEU
+Tried the pad see ew on the recommendation of the last reviewer since it 's one of my favorite dishes .,dishes,POS
+The location is perfect .,location,POS
+The lunch special is an absolute steal .,lunch special,POS
+"The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .",The chicken pot pie,POS
+"The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .",cheeseburger,POS
+"The chicken pot pie is exceptional , the cheeseburger huge and delictable , and the service professional wan warm .",service,POS
+She gets 10 for her excellent service and advice .,service,POS
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,meal,POS
+"I have eaten at Saul , many times , the food is always consistently , outrageously good .",food,POS
+"Apparently , the good cook works then .",cook,POS
+My steak au poivre was one of the worst I 've had .,steak au poivre,NEG
+"Although the tables may be closely situated , the candle-light , food-quality and service overcompensate .",candle-light,POS
+"Although the tables may be closely situated , the candle-light , food-quality and service overcompensate .",food-quality,POS
+"Although the tables may be closely situated , the candle-light , food-quality and service overcompensate .",service,POS
+"Although the tables may be closely situated , the candle-light , food-quality and service overcompensate .",tables,NEG
+"From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it .",caviar,POS
+"From the spectacular caviar to the hospitable waitstaff , I felt like royalty and enjoyed every second of it .",waitstaff,POS
+"Service was excellent , and the AC worked very well too ( thank God , it was hot ! ) .",Service,POS
+"Service was excellent , and the AC worked very well too ( thank God , it was hot ! ) .",AC,POS
+My friend ordered some of their special sushi rolls which had excellent presentation and tasted great !,sushi rolls,POS
+Although be warned their dinner menu to sit and take out prices are different .,prices,NEU
+Although be warned their dinner menu to sit and take out prices are different .,dinner menu to sit,NEU
+"To celebrate a birthday , three of us went to Mare anticipating great food .",food,NEU
+"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",spicy tuna roll,POS
+"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",rock shrimp tempura,POS
+"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",appetizer,POS
+Great staff .,staff,POS
+"To finish off such a delightful dinner experience you must have dessert , especially the White Chocolate Bread Pudding with Gelato and hot chocolate .",dinner,POS
+"Great vibe , lots of people .",vibe,POS
+Great food and the prices are very reasonable .,food,POS
+Great food and the prices are very reasonable .,prices,POS
+"Great food ( spinach and corn dumplings and massamman curry ) , very friendly and no nonsense service and a clean and funky bathroom .",food,POS
+"Great food ( spinach and corn dumplings and massamman curry ) , very friendly and no nonsense service and a clean and funky bathroom .",spinach and corn dumplings,POS
+"Great food ( spinach and corn dumplings and massamman curry ) , very friendly and no nonsense service and a clean and funky bathroom .",service,POS
+"Great food ( spinach and corn dumplings and massamman curry ) , very friendly and no nonsense service and a clean and funky bathroom .",bathroom,POS
+"Great food ( spinach and corn dumplings and massamman curry ) , very friendly and no nonsense service and a clean and funky bathroom .",massamman curry,POS
+My chow fun and chow see was really bland and oily .,chow fun and chow see,NEG
+"If you love seafood , you would love this place !",seafood,POS
+"If you love seafood , you would love this place !",place,POS
+They charge different prices all the time .,prices,NEG
+"In terms of the food itself -- nothing special , we limited ourselves to several appetizers .",food,NEU
+"In terms of the food itself -- nothing special , we limited ourselves to several appetizers .",appetizers,NEU
+"No dress codes , no attitudes , plenty of comfort companionship , a great place to relax in an always busy Midtown .",dress codes,POS
+"No dress codes , no attitudes , plenty of comfort companionship , a great place to relax in an always busy Midtown .",attitudes,POS
+"No dress codes , no attitudes , plenty of comfort companionship , a great place to relax in an always busy Midtown .",place,POS
+They have a huge selection of different cream cheeses and all of their salads are great .,cream cheeses,POS
+They have a huge selection of different cream cheeses and all of their salads are great .,salads,POS
+I ordered a Chicken Teriyaki dish and found that the chicken was extremely dry .,Chicken Teriyaki dish,NEG
+I ordered a Chicken Teriyaki dish and found that the chicken was extremely dry .,chicken,NEG
+There is no excuse for such lousy service !,service,NEG
+"So , a little inconsistency there but either way , both pizzas were really good .",pizzas,POS
+I had the duck breast special on my last visit and it was incredible .,duck breast special,POS
+These innovators of french indian fusion do a great job of making dishes as interesting as possible while still being accessible .,french indian fusion,POS
+These innovators of french indian fusion do a great job of making dishes as interesting as possible while still being accessible .,dishes,POS
+"night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .",manager,POS
+"You rarely have to wait for a seat and the currys ( masaman , green , red ) are full of flavor and come super spicy if you ask for it .",seat,POS
+"You rarely have to wait for a seat and the currys ( masaman , green , red ) are full of flavor and come super spicy if you ask for it .","currys ( masaman , green , red )",POS
+"You rarely have to wait for a seat and the currys ( masaman , green , red ) are full of flavor and come super spicy if you ask for it .",flavor,POS
+The bar is very well stocked with interesting beers and well priced wines .,bar,POS
+The bar is very well stocked with interesting beers and well priced wines .,beers,POS
+The bar is very well stocked with interesting beers and well priced wines .,wines,POS
+The bar is very well stocked with interesting beers and well priced wines .,priced,POS
+The food was good .,food,POS
+I have enjoyed everything I have ever gotten and the fish is so fresh and always prepared in a great way .,fish,POS
+The place was nice and calm .,place,POS
+I could have drank 4 glasses of water and still been parched - so watch out .,glasses of water,NEU
+"When we sat , we got great and fast service .",service,POS
+"They forgot a sandwich , did n't include plastic forks , and did n't include pita with the hummus platter .",sandwich,NEU
+"The menu is Prix Fixe , so be prepared to spend at least $ 60 per person , but it is Well worth it superb food .",menu,NEG
+"The menu is Prix Fixe , so be prepared to spend at least $ 60 per person , but it is Well worth it superb food .",food,POS
+"The menu is Prix Fixe , so be prepared to spend at least $ 60 per person , but it is Well worth it superb food .",Prix Fixe,NEU
+We had the most wonderful waitress .,waitress,POS
+Decor is nice though service can be spotty .,Decor,POS
+Decor is nice though service can be spotty .,service,NEG
+"The blond wood decor is very soothing , the premium sake is excellent and the service is great .",blond wood decor,POS
+"The blond wood decor is very soothing , the premium sake is excellent and the service is great .",sake,POS
+"The blond wood decor is very soothing , the premium sake is excellent and the service is great .",service,POS
+Your money could easily be better spent elsewhere ( Anywhere ) .,money,NEU
+Try the Pad Se-Ew or Chicken with Cashew Nuts for a memorable and repeatable experience .,Pad Se-Ew,POS
+Try the Pad Se-Ew or Chicken with Cashew Nuts for a memorable and repeatable experience .,Chicken with Cashew Nuts,POS
+It 's just O.K . pizza .,pizza,NEU
+What I did n't like was how the food came right after it was ordered .,food,NEG
+"The best part of the experience was knowing that the manager ( a bubbly , friendly young woman with a great smile ) truly cared about how we were doing .",manager,POS
+one of the best Chicken Tikka Masala .,Chicken Tikka Masala,POS
+"The corned beef and pastrami are excellent , much less fatty than those big tourist places around Times Square .",corned beef,POS
+"The corned beef and pastrami are excellent , much less fatty than those big tourist places around Times Square .",pastrami,POS
+The pizza is overpriced and soggy .,pizza,NEG
+If you 've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer .,view,POS
+Downstairs lounge is always a good attraction,Downstairs lounge,POS
+One of us actually liked the expresso - that 's it .,expresso,POS
+"The food was just OK , I would never go back .",food,NEU
+Ummm ... the beer was cold .,beer,POS
+I am happy i did the food was awesome .,food,POS
+"We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .",chicken,NEG
+"We ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .",meat,NEG
+"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",jelly fish,POS
+"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",drunken chicken,POS
+"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",soupy dumplings,POS
+"I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",stir fry blue crab,POS
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",fish,NEG
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",staff,NEG
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",sushi chef,NEG
+"The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",pesto pizza,POS
+"The pesto pizza was excellent , thin-crust pizza with a nice amount of spicy Italian cheese that I 'd never heard of before .",Italian cheese,POS
+"Delicate spices , onions , eggs and a kick-ass roti .",spices,POS
+"Delicate spices , onions , eggs and a kick-ass roti .",onions,POS
+"Delicate spices , onions , eggs and a kick-ass roti .",eggs,POS
+"Delicate spices , onions , eggs and a kick-ass roti .",roti,POS
+Incredible food at a very agreeable price brings me back just about every other day to this authentic Thai restaurant .,food,POS
+Incredible food at a very agreeable price brings me back just about every other day to this authentic Thai restaurant .,price,POS
+This was the worst dining experience I 've ever had .,dining experience,NEG
+"Food was okay , nothing great .",Food,NEU
+"The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .",paratha bread,POS
+"The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .",bread,NEG
+"The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .",stuffing,POS
+"The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .",tandoori,POS
+"The food however , is what one might expect .",food,NEU
+"Food is average , and I would say even the chain restaurant Baluchi 's tastes better .",Food,NEU
+The place is small and cramped but the food is fantastic .,place,NEG
+The place is small and cramped but the food is fantastic .,food,POS
+The food is tasty and portion sizes are appropriate .,food,POS
+The food is tasty and portion sizes are appropriate .,portion sizes,POS
+The bartender on my most recent visit was so incredibly rude that I will never go back .,bartender,NEG
+you can actually get 2 salads worth if u take it home and add it to some lettuce !,salads,NEG
+The ambience is very romantic and definitely a good place to bring a date .,ambience,POS
+The ambience is very romantic and definitely a good place to bring a date .,place,POS
+"It is far more popular as a bar than as a restaurant , with only a few tables and the waiter being the bartender , but we greatly enjoyed the unobtrusive atmosphere .",bar,POS
+"It is far more popular as a bar than as a restaurant , with only a few tables and the waiter being the bartender , but we greatly enjoyed the unobtrusive atmosphere .",tables,NEG
+"It is far more popular as a bar than as a restaurant , with only a few tables and the waiter being the bartender , but we greatly enjoyed the unobtrusive atmosphere .",atmosphere,POS
+There are much better places in NY with better prices .,prices,NEG
+The ambience is very calm and quiet .,ambience,POS
+"Both times I was extremely dissappointed by the service , which was boarderline rude .",service,NEG
+"Considering their price of $ 6.25 for lunch special , the dish was ridiculously small .",dish,NEG
+The food was pretty traditional but it was hot and good with large portions .,food,POS
+The food was pretty traditional but it was hot and good with large portions .,portions,POS
+They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .,food,NEG
+They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .,rice,NEU
+"Service is extraordinary , yet not overbearing , and the decor brings a taste of trendy SoHo into Queens .",Service,POS
+"Service is extraordinary , yet not overbearing , and the decor brings a taste of trendy SoHo into Queens .",decor,POS
+A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .,food,POS
+A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .,service,POS
+A restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .,atmosphere,POS
+Their sake martini is wonderful .,sake martini,POS
+"The service is friendly , if not the most prompt in the world , the food is great , and the prices , while not cheap , wo n't put your wallet out of commission .",service,POS
+"The service is friendly , if not the most prompt in the world , the food is great , and the prices , while not cheap , wo n't put your wallet out of commission .",food,POS
+Best drumsticks over rice and sour spicy soup in town !,drumsticks over rice,POS
+Best drumsticks over rice and sour spicy soup in town !,sour spicy soup,POS
+"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .",price,POS
+"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .",congee,NEU
+"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .",noodles,NEU
+"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .",rice dishes,NEU
+"Overall I was impressed and will return , it 's a great QPR ( Quality to Price Ratio ) .",Price,POS
+"Overall I was impressed and will return , it 's a great QPR ( Quality to Price Ratio ) .",Quality,POS
+By far the best salad I have had in a fast food restaurant .,salad,POS
+"Unlike HH up the block , this place actually gives you hearty and hot bagels this town is known for .",bagels,POS
+What generous portions !,portions,POS
+The wine the service was very good too .,wine,POS
+The wine the service was very good too .,service,POS
+"So , the menu is written in chalk above your head and it all sounds delicious .",menu,NEU
+"I have been there many times , and food is good and consistent .",food,POS
+The meat dishes were only so-so .,meat dishes,NEU
+"The menu consisted of standard brassiere food , better then places like Balthazar etc .",brassiere food,POS
+"The service is always bad though , do n't expect much of anything from your server , and I would not recommend bringing a date here either .",service,NEG
+The sushi is also great !,sushi,POS
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .,chef app,POS
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .,delicate butternut squash ravioli in a delicious truffle sauce,POS
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .,buttery and tender langostine entree,POS
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .,Cakebread Cabernet,POS
+The makhani was OK -- the korma was bland .,makhani,NEU
+The makhani was OK -- the korma was bland .,korma,NEG
+Service was very friendly .,Service,POS
+We actually left hungry and went across the street to Wo Hop at 15 Mott street for some good chinese food .,chinese food,POS
+"I have known about this secret for the last 13 years , Emilio ( the Godfather ) has continued to serve food and wine for the gods at mortal prices .",prices,POS
+And the bill was outrageous .,bill,NEG
+"Kind , attentive wait staff .",wait staff,POS
+The food is authentic Italian - delicious !,food,POS
+It was like the servers forgot that they actually worked there and instead wanted to hang out and be cool .,servers,NEG
+The service is good and ambience is good for a date or group outing .,service,POS
+The service is good and ambience is good for a date or group outing .,ambience,POS
+This restaurant is a wonderful place to go many times and it is reasonably priced .,priced,POS
+"Went on a 3 day oyster binge , with Fish bringing up the closing , and I am so glad this was the place it O trip ended , because it was so great !",place,POS
+"If you are looking for a good quality , cheap eats - this is the place .",quality,POS
+Never in my life did I think that I could be satisfied both in taste and in quantity for $ 3.00 in NYC .,taste,POS
+Never in my life did I think that I could be satisfied both in taste and in quantity for $ 3.00 in NYC .,quantity,POS
+"The main course had an average portion , and was decent overall .",main course,POS
+"The main course had an average portion , and was decent overall .",portion,NEU
+20 minutes for our reservation but it gave us time to have a few cocktails and enjoy our surroundings and each other .,surroundings,POS
+"Waitstaff is great , very attentive .",Waitstaff,POS
+Coming from Boston this place is like Emma 's Pizza in Kendall Square in Cambridge ( although they have more funky toppings ! ),toppings,POS
+The space is nice but when we order our drink we were in for a surprise .,space,POS
+The space is nice but when we order our drink we were in for a surprise .,drink,NEG
+The price very reasonable .,price,POS
+"The waiters are sweet , the food is tasty and the bill is never too large .",waiters,POS
+"The waiters are sweet , the food is tasty and the bill is never too large .",food,POS
+"The waiters are sweet , the food is tasty and the bill is never too large .",bill,POS
+The flavors robust and subtle .,flavors,POS
+"This is such a lovely , peaceful place to eat outside .",place,POS
+"Oh , but wait , we were out of drinks ( which were also delightfully overpriced ) .",drinks,NEG
+The service is fantastic .,service,POS
+The garlic mashed potatoes are hands down the best in the city !,garlic mashed potatoes,POS
+The lamb meat was under-cooked and EXTRMELY CHEWY .,lamb meat,NEG
+"Over time , the food quality has decreased substantially , it is a lot less crowded than it used to , and the service must definitely be part of the reason .",food quality,NEG
+Killer Sushi !,Sushi,POS
+Plus they made a perfect martini .,martini,POS
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",rice,NEG
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",sushi,NEG
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",seasoning,NEG
+Winnie and her staff are the best crew you can find serving you .,crew,POS
+Winnie and her staff are the best crew you can find serving you .,staff,POS
+"If it is n't for the food ( A+++ ) , it must be the service or the ambience .",food,POS
+This place has the best Chinese style BBQ ribs in the city .,BBQ ribs,POS
+"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food,POS
+"Just straight up cheap , good food .",food,POS
+Seating is ok even though sometimes there 's alot of people .,Seating,NEU
+"As a long-time patron of Mamoun 's , I always figured that I had found the best late night food spot in the city .",food spot,POS
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",somosas,POS
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",chai,POS
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",chole,POS
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",dhosas,NEG
+"I like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .",dhal,NEG
+"Yeah , sometimes the service can be slow .",service,NEG
+The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .,service,POS
+The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .,dish,POS
+The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .,spring rolls,POS
+The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .,cod with pineapple tempura,POS
+"I would not have been so disappointed with the portions if the qualities were good enough to make up for it , but they were not !",portions,NEG
+"I would not have been so disappointed with the portions if the qualities were good enough to make up for it , but they were not !",qualities,NEG
+All the desserts the group tried got favorable reviews .,desserts,POS
+Wonderful strawberry daiquiries as well !,strawberry daiquiries,POS
+"When I saw that their website had a link to da Ciro in Napoli , I knew there was going to be good pizza !",pizza,POS
+And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service !,prices,NEG
+And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service !,food,NEG
+And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service !,service,NEG
+"Great spot , whether looking for a couple of drinks or quiet dinner .",dinner,POS
+"Great spot , whether looking for a couple of drinks or quiet dinner .",spot,POS
+Just stick with the small dishes !,dishes,NEG
+"both are very reasonably priced ( around $ 8 for dinner and $ 5 for lunch ) , and are delicious and filling .",priced,POS
+"both are very reasonably priced ( around $ 8 for dinner and $ 5 for lunch ) , and are delicious and filling .",dinner,POS
+"both are very reasonably priced ( around $ 8 for dinner and $ 5 for lunch ) , and are delicious and filling .",lunch,POS
+My boyfriend ate tuna and it was cooked perfectly !,tuna,POS
+"great eats , good times .",eats,POS
+"The food was delicious , the atmosphere was relaxed , and we have now adopted Plate 347 as our Secret on Second !",food,POS
+"The food was delicious , the atmosphere was relaxed , and we have now adopted Plate 347 as our Secret on Second !",atmosphere,POS
+"The food is good , I ca n't lie .",food,POS
+"great food , lt 's of it , more then one person can eat !",food,POS
+Really tasty spring rolls and noodles for a good price though .,spring rolls,POS
+Really tasty spring rolls and noodles for a good price though .,noodles,POS
+Really tasty spring rolls and noodles for a good price though .,price,POS
+"Little Tonino 's is just awesome , our favorite delivery place in Kennsington , honestly the best Gnochi I have ever had !",Gnochi,POS
+INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES .,SERVICE,NEG
+INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES .,FOOD QUALITY,NEG
+INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES .,PRICES,NEG
+I have been about 4 times and have always had a great meal .,meal,POS
+The wine and cheese plate are plentiful and ca n't wait to try the fondue or table grilling .,wine,POS
+The wine and cheese plate are plentiful and ca n't wait to try the fondue or table grilling .,cheese,POS
+THE BIG COMPLAINT : NO TOASTING AVAILABLE .,TOASTING,NEG
+No you 're going to go back because the food was good .,food,POS
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef ( usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt ) .,fish,POS
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef ( usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt ) .,sushi chef,POS
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef ( usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt ) .,wasabi,POS
+Veal Parmigana - Better than Patsy 's !,Veal Parmigana,POS
+Went to Ottimo and was expecting outstanding pizza ( as I love La Pizza Fresca ) .,pizza,NEU
+Our tiny table for two ( dinner plates hung over edge ) was right in the middle of one of the lanes of waiter traffic .,table,NEG
+"Sake collection was excellent ( Try Nanbu Bijin ) , but pricey .",Nanbu Bijin,POS
+A wonderful place !,place,POS
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids .,place,NEG
+We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them .,hot dogs,NEU
+"If you like the food and the value you get from some of Chinatown restaurants , this is not the place for you .",food,NEU
+"If you like the food and the value you get from some of Chinatown restaurants , this is not the place for you .",value,NEU
+The restaraurant is very small so reservations are a must .,reservations,NEU
+"The service was typical short-order , dinner type .",service,NEU
